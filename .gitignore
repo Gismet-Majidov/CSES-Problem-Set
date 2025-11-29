@@ -1,0 +1,6 @@
+# Editor / IDE
+.vscode/
+
+# Compiled / generated binaries
+*.exe
+*.class
