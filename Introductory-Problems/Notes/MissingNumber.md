@@ -1,0 +1,1 @@
+Find the sum of the numbers from 1 to n and the sum of the given numbers. The missing number is the difference between these two numbers. 
