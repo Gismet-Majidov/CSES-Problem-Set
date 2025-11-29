@@ -1,0 +1,1 @@
+This is a simple simulation problem. It is a well-known conjecture named Collatze conjecture. Although it is not proven that every number reaches 1 by this algorithm, it has been checked for very high numbers and confired that each checked number reaches 1. The input size is only at most 10^6, which is small enough to be sure that every number eventually goes down to 1. 
